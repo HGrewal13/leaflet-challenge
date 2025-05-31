@@ -1,3 +1,3 @@
 # leaflet-challenge
 
-visualize USGS Earthquake data using Leaflet.js
+Small project to visualize USGS Earthquake data using Leaflet.js
